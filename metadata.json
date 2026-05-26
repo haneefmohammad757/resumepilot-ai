@@ -1,0 +1,6 @@
+{
+  "name": "ResumePilot AI",
+  "description": "An AI-powered SaaS application helping job seekers optimize resumes, improve LinkedIn profiles, generate project ideas, analyze ATS compatibility, and prepare for interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

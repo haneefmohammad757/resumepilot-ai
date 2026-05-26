@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "u-fres9fp",
+      "email": "haneefmohammed867@gmail.com",
+      "password_hash": "hash_haneef757",
+      "fullName": "Haneef",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&auto=format&fit=crop&q=80",
+      "subscriptionPlan": "Pilot Pro Lifetime",
+      "createdAt": "2026-05-26T16:32:53.256Z"
+    }
+  ],
+  "subscriptions": [],
+  "reviews": [],
+  "resume_reports": [],
+  "linkedin_profiles": [],
+  "project_generations": [],
+  "career_roadmaps": [],
+  "interview_history": [],
+  "cover_letters": [],
+  "bullets": [],
+  "payment_requests": []
+}
